@@ -76,7 +76,7 @@ max_date = all_data["dteday"].max()
 
 with st.sidebar:
     # Menambahkan logo perusahaan
-    st.image("https://drive.google.com/file/d/13fzir0sZOlAA8QWRb_yMNWS-hUDXORlg/view?usp=sharing")
+    st.image("https://github.com/yuliaharni/dashboard/blob/main/sepeda2.jpg")
     
     # Mengambil start_date & end_date dari date_input
     start_date, end_date = st.date_input(
